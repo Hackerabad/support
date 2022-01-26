@@ -12,6 +12,6 @@ jobs:
           organization: Hack-Club-Hackerabad
           label: invite me to the organization
           repo-toke: ${{secrets.GITHUB_TOKEN}}
-          comment: `<b>Invitation sent to join the Github Organization. Welcome to Hackerabad! 🎉`</b>
+          comment: `<b>Invitation sent to join the Github Organization. Welcome to Hackerabad! 🎉</b>`
           env:
             INVITE_TOKEN: ${{screts.INVITE_TOKEN}}
