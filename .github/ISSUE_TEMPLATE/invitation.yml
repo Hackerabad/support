@@ -1,0 +1,30 @@
+name: Invitation to the Hack Club Hackerabad Github Organization
+description: I would like to be a part of this cool community
+title: "Please invite me to this Github Organization"
+labels: [invite me to the org]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: name
+      placeholder: Insert your name here
+    validations:
+      required: true
+    - type: input
+      id: discordname
+      attribtes:
+        label: Discord Username (join discord you don't have one)
+        placeholder: Enter your Discord Username
+      validations:
+        required: true
+    - type: textarea
+      id: Additional
+      attributes:
+        label: Additional Context
+        description: How did you hear about us? Why would you like to join us?
+        validations:
+        required: true
+        type: markdown
+        attributes:
+        value: |
+          You can also join our Discord community [here](https://discord.gg/VjQfxRCRuF)
