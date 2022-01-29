@@ -3,7 +3,7 @@ description: I would like to be a part of this cool community
 title: "Please invite me to this Github Organization"
 labels: [invite me to the org]
 body:
-    - type: input
+  - type: input
     id: name
     attributes:
       label: name
