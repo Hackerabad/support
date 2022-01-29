@@ -10,14 +10,14 @@ body:
       placeholder: Insert your name here
     validations:
       required: true
-    - type: input
+  - type: input
       id: discordname
       attribtes:
         label: Discord Username (join discord you don't have one)
         placeholder: Enter your Discord Username
       validations:
         required: true
-    - type: textarea
+  - type: textarea
       id: Additional
       attributes:
         label: Additional Context
