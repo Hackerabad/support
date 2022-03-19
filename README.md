@@ -1,2 +1,2 @@
-# support
+# Support
 Join our organization! 
