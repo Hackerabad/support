@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Hackerabad Code of Conduct
 
 ## 1. Purpose
 
