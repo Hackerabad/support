@@ -40,7 +40,6 @@ Encouraged behaviour:
 * Supporting other's in help channels
 * Using inclusive Language and pronouns
 * Reporting an incident to the Team
-* 
 
 ## Enforcement Responsibilities
 
