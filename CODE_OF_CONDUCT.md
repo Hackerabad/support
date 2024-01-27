@@ -136,3 +136,9 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+#  Getting help with a violation or incident, the TLDR:
+If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Hackerabad, ways to report the incident and get support are listed below
+- Email us at hackclubhackerabad@gmail.com
+- Contact Hackerabad Leads in discord
+- Contact anyone from the Hackerabad team if it's an in-person event
