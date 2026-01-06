@@ -12,133 +12,95 @@ identity and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
-## Our Standards
+We are committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all individuals. The same privileges of participation are extended to everyone who participates in good faith and in accordance with this Code of Conduct.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## Encouraged Behaviors
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall
-  community
+While acknowledging differences in social norms, we all strive to meet our community's expectations for positive behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture, background, or native language.
 
-Examples of unacceptable behavior include:
+With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared values, including:
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
-  
-Encouraged behaviour: 
-* Supporting other's in help channels
-* Using inclusive Language and pronouns
-* Reporting an incident to the Team
-* 
+* Demonstrating empathy and kindness toward others.
+* Being respectful of differing opinions, viewpoints, and experiences.
+* Gracefully giving and accepting constructive feedback.
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience.
+* Supporting others in help channels.
+* Using inclusive language and pronouns.
+* Reporting incidents to the Hackerman Leads in a timely manner.
+* Committing to repairing harm when it occurs.
 
-## Enforcement Responsibilities
+## Restricted Behaviors
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct:
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+1. **Harassment.** Violating clearly expressed boundaries or engaging in unnecessary personal attention after any request to stop.
+2. **Character Attacks.** Making insulting, demeaning, or pejorative comments directed at a community member or group.
+3. **Sexualization.** The use of sexualized language or imagery, and sexual attention or advances of any kind.
+4. **Trolling and Offensive Language.** Insults, derogatory comments, personal or political attacks, or stereotyping based on immutable traits.
+5. **Violating Confidentiality.** Sharing someone’s personal or private information without their permission.
+6. **Endangerment.** Threatening violence or harm towards any person or group.
+7. **Other inappropriate conduct.** Actions that could reasonably be considered harmful, unprofessional, or inappropriate in a professional setting.
+
+### Other Restrictions
+
+* **Misleading Identity.** Impersonating someone else or pretending to be someone else to evade enforcement actions.
+* **Failing to Credit Sources.** Not properly crediting the sources of content contributed.
+* **Promotional Spam or Commercial Materials.** Sharing unsolicited marketing content that falls outside community norms.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-## Enforcement
+It also applies to all interactions, whether in person or remote, in private or public areas.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
+## Reporting an Issue
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+If for any reason, you feel unsafe, unwelcome, or uncomfortable as a result of an interaction within Hackerabad, report the incident and get support via one of these channels:
+
+- Email us at hackclubhackerabad@gmail.com.
+- Contact Hackerabad Leads on Discord.
+- Approach any Hackerabad team member directly at in-person events.
+
+Community Moderators take all reports seriously and will follow up in a timely and confidential manner.
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing acceptable behavior. They will investigate all reports, review logs and evidence, and make judgments with transparency where appropriate while maintaining confidentiality.
+
+They reserve the right to remove or restrict access for any behavior that is deemed inappropriate, threatening, offensive, or harmful.
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Community leaders will follow these guidelines to determine the consequences of any action violating our Code of Conduct:
 
-### 1. Correction
+### 1. Warning
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Impact:** Minor violations within the community, such as unprofessional or unwelcome comments.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**Consequence:** A private written warning clarifying the nature of the violation and why it’s inappropriate. A public apology may be requested.
 
-### 2. Warning
+### 2. Temporarily Limited Activities
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+**Impact:** Repeated offenses or moderate violations.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+**Consequence:** Temporary exclusion from certain activities, community spaces, or communication channels. Violating these limitations may escalate consequences.
 
-### 3. Temporary Ban
+### 3. Temporary Suspension
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Impact:** Serious violations or repeated infringement of prior warnings.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consequence:** A temporary suspension from all community interactions and spaces. Rules for returning must be respected during the suspension period.
 
 ### 4. Permanent Ban
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Impact:** Continuous and egregious violations that compromise the safety and well-being of others.
 
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+**Consequence:** Permanent exclusion from all community spaces, tools, and communication channels.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+This Code of Conduct is adapted from the Contributor Covenant, version 3.0, available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/). It integrates elements uniquely written for Hackerabad.
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+Community Impact and Enforcement Guidelines were inspired by the Mozilla Code of Conduct.
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
-
-#  Getting help with a violation or incident, the TLDR:
-If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the Hackerabad, ways to report the incident and get support are listed below
-- Email us at hackclubhackerabad@gmail.com
-- Contact Hackerabad Leads in discord
-- Contact anyone from the Hackerabad team if it's an in-person event
+For common questions, please see the Contributor Covenant FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations and resources are available at [https://www.contributor-covenant.org/](https://www.contributor-covenant.org/).
